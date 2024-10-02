@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iván Ramos
+- 👋 Hi, I’m Iván Ramos :)
 - 👀 I’m interested in Linux, Python, SQL, IoT, Cybersecurity, Networking, English.
 - 🌱 I’m currently learning Networking, Linux, Python, SQL, English.
 - 💞️ I’m looking to collaborate on ...
